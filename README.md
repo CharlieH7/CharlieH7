@@ -52,4 +52,4 @@ src="https://img.shields.io/github/followers/charlieh7?logo=github&style=for-the
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/charliehuang" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/charliehuang"{:target="_blank" rel="noopener"}><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
