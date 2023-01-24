@@ -9,7 +9,7 @@ Third-year computer science student with a strong foundation in computer science
 * 🌍  I'm based in Sydney, Australia
 * 🖥️  See my portfolio at [MyPortfolio](http://charlieh7.github.io/Portfolio/)
 * ✉️  You can contact me at [hope91824@gmail.com](mailto:hope91824@gmail.com)
-* 🧠  I'm learning React.js, PHP and C++
+* 🧠  I'm currently learning Node.js, React.js, PHP and C++
 * 🤝  I'm open to collaborating on any projects
 * ⚡  I love milktea
 
