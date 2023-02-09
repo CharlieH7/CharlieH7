@@ -1,10 +1,10 @@
-Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pin-Hsun (Charlie) Huang
+Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Charlie
 =====================================================================================================================================
 
 Computer Science Student @ UTS
 ------------------------------
 
-Third-year computer science student with a strong foundation in computer science principles and programming languages such as Java, C#, and Python. Skilled in data structures, algorithms, and computer architecture. I am also proficient in front-end web development technologies such as HTML, CSS, and JavaScript. Practical experience through hands-on projects and lab work. Motivated to continue learning and growing as a computer scientist. Excellent written and verbal communication skills. In my free time, I enjoy playing table tennis, watching NBA matches, listening to music, jogging, and learning about new technologies and building projects. Seeking an internship or entry-level position in a company that values innovation and collaboration.
+<h3>Third-year computer science student with a strong foundation in computer science principles and programming languages such as Java, C#, and Python. Skilled in data structures, algorithms, and computer architecture. I am also proficient in front-end web development technologies such as HTML, CSS, and JavaScript. Practical experience through hands-on projects and lab work. Motivated to continue learning and growing as a computer scientist. Excellent written and verbal communication skills. In my free time, I enjoy playing table tennis, watching NBA matches, listening to music, jogging, and learning about new technologies and building projects. Seeking an internship or entry-level position in a company that values innovation and collaboration.</h3>
 
 * 🌍  I'm based in Sydney, Australia
 * 🖥️  See my portfolio at [MyPortfolio](http://charlieh7.github.io/Portfolio/)
