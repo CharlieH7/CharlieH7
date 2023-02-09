@@ -13,6 +13,8 @@ Third-year computer science student with a strong foundation in computer science
 * 🤝  I'm open to collaborating on any projects
 * ⚡  I love milktea
 
+![Leetcode Stats](https://leetcard.Char1ie/lapor?ext=heatmap)
+
 <a href="https://www.github.com/charlieh7" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/charlieh7?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
