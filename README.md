@@ -6,12 +6,12 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 Computer Science Student @ UTS
 ------------------------------
 
-Third-year computer science student with a strong foundation in computer science principles and programming languages such as Java, C#, C++ and Python. Skilled in data structures, algorithms, and computer architecture. I am also proficient in front-end web development technologies such as HTML/CSS/JavaScript and React.js. Practical experience through hands-on projects and lab work. Motivated to continue learning and growing as a computer scientist. Excellent written and verbal communication skills. In my free time, I enjoy learning about new technologies and building projects.
+Third-year computer science student with a strong foundation in computer science principles and programming languages such as Java, C#, C++ and Python. Skilled in data structures, algorithms, and computer architecture. I am also proficient in front-end web development technologies such as HTML/CSS/JavaScript and React.js. Practical experience through hands-on projects and lab work. Motivated to continue learning and growing as a computer scientist. Excellent written and verbal communication skills. In my free time, I enjoy learning about new technologies and building projects especially in frontend development
 
 * 🌍  I'm based in Sydney, Australia
-* 🖥️  See my portfolio at [MyPortfolio](https://charlieh7.github.io/Portfolio-Website/)
+* 🖥️  See my portfolio at [MyPortfolio](https://charlieh7.github.io/)
 * ✉️  You can contact me at [hope91824@gmail.com](mailto:hope91824@gmail.com)
-* 🧠  I'm currently learning Node.js, React.js, Express.js, PHP and C++
+* 🧠  I'm currently learning Node.js, React.js, Express.js, TypeScript and C++
 * 🤝  I'm open to collaborating on any projects
 
 <a href="https://leetcode.com/Char1ie/" target="blank"><img align="center" src="https://img.shields.io/badge/-leetcode-7CB342?style=for-the-badge&labelColor=7CB342&logo=Medium&link=https://medium.com/@maartengrootendorst" alt="maartengrootendorst"/></a>
