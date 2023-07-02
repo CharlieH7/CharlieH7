@@ -3,7 +3,7 @@
 Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Charlie
 =====================================================================================================================================
 
-Computer Science Student @ UTS
+CS Honours Student @ UTS
 ------------------------------
 
 Third-year computer science student with a strong foundation in computer science principles and programming languages such as Java, C#, C++ and Python. Skilled in data structures, algorithms, and computer architecture. I am also proficient in front-end web development technologies such as HTML/CSS/JavaScript and React.js. Practical experience through hands-on projects and lab work. Motivated to continue learning and growing as a computer scientist. Excellent written and verbal communication skills. In my free time, I enjoy learning about new technologies and building projects especially in frontend development
