@@ -7,7 +7,7 @@ CS Honours Student @ UTS
 ------------------------------
 
 * 🌍  I'm based in Sydney, Australia
-* 🖥️  See my portfolio at [MyPortfolio](https://charlieh7.github.io/)
+* 🖥️  See my portfolio at [MyPortfolio](https://charliehuang.vercel.app/)
 * ✉️  You can contact me at [hope91824@gmail.com](mailto:hope91824@gmail.com)
 * 🧠  I'm currently learning TypeScript and Tailwind CSS
 * 🤝  Ask me about anything
