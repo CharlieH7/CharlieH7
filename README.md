@@ -9,7 +9,7 @@ CS Honours Student @ UTS
 * 🌍  I'm based in Sydney, Australia
 * 🖥️  See my portfolio at [MyPortfolio](https://charliehuang.vercel.app/)
 * ✉️  You can contact me at [hope91824@gmail.com](mailto:hope91824@gmail.com)
-* 🧠  I'm currently learning TypeScript and Tailwind CSS
+* 🧠  I'm currently learning Swift and NextJS
 * 🤝  Ask me about anything
 
 <a href="https://leetcode.com/Char1ie/" target="blank"><img align="center" src="https://img.shields.io/badge/-leetcode-7CB342?style=for-the-badge&labelColor=7CB342&logo=Medium&link=https://medium.com/@maartengrootendorst" alt="maartengrootendorst"/></a>
@@ -18,7 +18,6 @@ CS Honours Student @ UTS
 src="https://img.shields.io/github/followers/charlieh7?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
-
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -33,6 +32,7 @@ src="https://img.shields.io/github/followers/charlieh7?logo=github&style=for-the
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
 </p>
 
 
