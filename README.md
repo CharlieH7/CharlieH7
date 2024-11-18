@@ -9,7 +9,6 @@ CS Honours Student @ UTS
 * 🌍  I'm based in Sydney, Australia
 * 🖥️  See my portfolio at [MyPortfolio](https://charliehuang.vercel.app/)
 * ✉️  You can contact me at [hope91824@gmail.com](mailto:hope91824@gmail.com)
-* 🧠  I'm currently learning Swift and NextJS
 * 🤝  Ask me about anything
 
 <a href="https://leetcode.com/Char1ie/" target="blank"><img align="center" src="https://img.shields.io/badge/-leetcode-7CB342?style=for-the-badge&labelColor=7CB342&logo=Medium&link=https://medium.com/@maartengrootendorst" alt="maartengrootendorst"/></a>
